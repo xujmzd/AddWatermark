@@ -1,5 +1,6 @@
-# 图片水印添加工具 - 项目介绍
 
+# 图片水印添加工具 - 项目介绍
+![image](https://github.com/user-attachments/assets/12c3f56c-78be-48f6-9f6e-b163df49dd31)
 ## 📌 项目概述
 一款基于Python开发的批量图片水印处理工具，采用Pillow进行图像处理，Tkinter构建GUI界面。支持多格式输入输出，提供专业级水印参数配置，兼顾易用性与功能性。
 ## ✨技术特点
@@ -45,7 +46,10 @@
     "compress_level": 6, # 0-9
     "optimize": True     # 霍夫曼编码优化
 }
+```
+
 🚀 使用场景
+
 摄影师版权保护
 
 电商产品图批量处理
