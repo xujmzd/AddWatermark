@@ -1,0 +1,21 @@
+{
+    "input_folder": "",
+    "output_folder": "",
+    "opacity": 0.5,
+    "target_width": 0,
+    "watermark_ratio": 0.2,
+    "position": "左上",
+    "custom_name": "示例",
+    "output_format": "JPG",
+    "keep_original_name": true,
+    "compression_level": 6,
+    "jpeg_quality": 95,
+    "jpeg_subsampling": 0,
+    "dpi": 300,
+    "jpeg_progressive": true,
+    "jpeg_qtables": "",
+    "png_optimize": true,
+    "png_transparency": false,
+    "tiff_compression": "tiff_lzw",
+    "webp_lossless": false
+}
