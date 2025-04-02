@@ -4,7 +4,7 @@
 ## 📌 项目概述
 一款基于Python开发的批量图片水印处理工具，采用Pillow进行图像处理，Tkinter构建GUI界面。支持多格式输入输出，提供专业级水印参数配置，兼顾易用性与功能性。
 
-###已构建EXE版本下载：https://pan.baidu.com/s/1aAzdsTPO_5wNHiYFLgHnzA?pwd=jmz1
+### 已构建EXE版本下载：https://pan.baidu.com/s/1aAzdsTPO_5wNHiYFLgHnzA?pwd=jmz1
 ## ✨技术特点
 
 ### 1.用户友好提示：
